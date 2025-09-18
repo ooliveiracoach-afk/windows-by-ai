@@ -1,0 +1,5 @@
+{
+  "name": "Windows 6.1 - Alternate Timeline",
+  "description": "A web-based simulation of a fictional 'Windows 6.1' operating system from an alternate timeline. This interactive desktop environment features classic UI elements, draggable windows, and built-in applications, including a powerful AI assistant powered by the Gemini API.",
+  "requestFramePermissions": []
+}
